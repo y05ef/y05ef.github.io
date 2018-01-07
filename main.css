@@ -1,0 +1,58 @@
+// CSS file created by y05ef
+//7-1-2018
+//main.cas
+
+mark.root {
+      background-color:#d3d3d3;}
+button {
+      text-align:center;
+      width: 83px;
+      weight: 8px;
+      padding: 5px;
+      cursor: pointer;
+      font-weight: bold;
+      font-size: 100%;
+      background: #ffdead;
+      color:black;
+      border-radius: 10px;}
+button:hover {
+      color: #ffff00;
+      background: #000;
+      border: 1px solid #fff;}
+button.insta {
+      text-align:center;
+      width: 85px;
+      weight: 8px;
+      padding: 5px;
+      cursor: pointer;
+      font-weight: bold;
+      font-size: 100%;
+      background: #ffdead;
+      color:black;
+      border-radius: 10px;}
+button:hover {
+      color: #ffff00;
+      background: #000;
+      border: 1px solid #fff;}
+p.copy {
+      font-family:Gruppo;}
+b.info {
+      font-size:10px;}
+mark.level {
+      background-color:#ffdead;}
+img {
+      border-radius:50%;}
+body {
+      background-color:#ffebcd;}
+p.blog , p.options , p.sociallinks ,     a.mailto {
+      font-family:american typewriter ,serif;}
+b.miniblog {
+      font-family: Didot, serif;}
+h2.title {
+      font-family: Optima, sans-serif;}
+h2 , b.follow {
+      font-family: Courier New, monospace;}
+li {
+      list-style-type: none;}
+a {
+      text-decoration: none;}
