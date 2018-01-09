@@ -2,9 +2,9 @@
 //7-1-2018
 //main.cas
 
-p.changelog, li{
-font-family:Poiret One;
-font-size: 15px;}
+p.changelog, li {
+    font-family: 'Poiret One';font-size: 15px;
+}
 p.copy {
 font-family:Gruppo;}
 h2.title {
