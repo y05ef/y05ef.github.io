@@ -1,21 +1,25 @@
-// CSS file created by y05ef
-//7-1-2018
-//main.cas
-
-p.changelog, li {
-    font-family: 'Poiret One';font-size: 15px;
-}
+//
+//
+//
+//10.01.2018 14:00
+//Created by @y05ef
+//main.css file
+//
+//
+//
+a.A {
+     color:black;}
 p.copy {
-font-family:Gruppo;}
+     font-family:Gruppo;}
 h2.title {
-font-family: Optima, sans-serif;}
+     font-family: Optima, sans-serif;}
 img {
-border-radius:50%;}
+     border-radius:50%;}
 body {
-background-color:#f0f8ff;}
+     background-color:#f0f8ff;}
 p.blog, a{
-font-family:american typewriter ,serif;}
+     font-family:american typewriter ,serif;}
 li {
-list-style-type: none;}
+     list-style-type: none;}
 a {
-text-decoration: none;}
+     text-decoration: none;}
