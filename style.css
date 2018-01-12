@@ -1,13 +1,11 @@
-//
-//
-//
-//10.01.2018 14:00
-//Created by @y05ef
-//main.css file
-//
-//
-//
-a.A {
+/* Default CSS
+12.01.2018 18:18
+Created by @y05ef
+style.css file
+*/
+ iframe {
+       border:none;}
+ a.A {
      color:black;}
 p.copy {
      font-family:Gruppo;}
