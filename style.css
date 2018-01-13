@@ -4,7 +4,8 @@ Created by @y05ef
 style.css file
 */
  iframe {
-       border:none;}
+       border:none;
+       border-raduis:10%}
  a.A {
      color:black;}
 p.copy {
