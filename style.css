@@ -13,6 +13,8 @@ h2.title {
      font-family: Optima, sans-serif;}
 img {
      border-radius:50%;}
+img.Wise {
+     border-radius:5%;}
 body {
      background-color:#f0f8ff;}
 p.blog, a{
