@@ -1,21 +1,25 @@
 /* Default CSS
-14.01.2018 21:20
+17.01.2018 15:09
 Created by @y05ef
 style.css file
 */
-a.A {
+ a.A {
      color:black;}
 p.copy {
      font-family:Gruppo;}
-h2.title {
+h1.title {
      font-family: Optima, sans-serif;}
 img {
      border-radius:50%;}
-img.Wise {
-     border-radius:5%;}
-body {
-     background-color:#f0f8ff;}
-p.blog, a{
+#body.aaaa {
+     background-color:red;}
+#body.cccc {
+     background-color:green;}
+#body.cccc {
+     background-color:blue;}
+#body.cccc {
+     background-color:black;}
+p.blog, a, b.blog{
      font-family:american typewriter ,serif;}
 li {
      list-style-type: none;}
