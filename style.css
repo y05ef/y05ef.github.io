@@ -11,14 +11,8 @@ h1.title {
      font-family: Optima, sans-serif;}
 img {
      border-radius:50%;}
-#body.aaaa {
+body {
      background-color:red;}
-#body.cccc {
-     background-color:green;}
-#body.cccc {
-     background-color:blue;}
-#body.cccc {
-     background-color:black;}
 p.blog, a, b.blog{
      font-family:american typewriter ,serif;}
 li {
